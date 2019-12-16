@@ -1,0 +1,19 @@
+---
+title: Interesting Stuff
+author: Alicia Ireland
+date: '2019-12-15'
+slug: interesting-stuff
+categories: []
+tags: []
+description: ''
+---
+*this is very interesting*
+```{r}
+#install.packages("reticulate")
+library(reticulate)
+hi<-"Hello"
+hi="world"
+cat(c(hi,py$hi)) 
+
+
+```

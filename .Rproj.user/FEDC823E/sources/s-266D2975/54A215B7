@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576451058419.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "54A215B7",
+    "lastKnownWriteTime" : 1576460969,
+    "last_content_update" : 1576460969746,
+    "path" : "~/Desktop/aliciaproject/content/blog/2019-12-15-interesting-stuff.Rmd",
+    "project_path" : "content/blog/2019-12-15-interesting-stuff.Rmd",
+    "properties" : {
+        "cursorPosition" : "10,6",
+        "scrollLine" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

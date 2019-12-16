@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Chris Turner</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Chris Turner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interesting Stuff</title>
+      <link>/blog/interesting-stuff/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/interesting-stuff/</guid>
+      <description> this is very interesting
+#install.packages(&amp;quot;reticulate&amp;quot;) library(reticulate) hi&amp;lt;-&amp;quot;Hello&amp;quot; hi=&amp;quot;world&amp;quot; cat(c(hi,py$hi))  ## world </description>
+    </item>
+    
+  </channel>
+</rss>
